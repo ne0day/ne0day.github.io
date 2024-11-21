@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: "/resource.md/e-course/"
 about: Create a report to help us improve
 title: ''
 labels: ''
